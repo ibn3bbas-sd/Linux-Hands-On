@@ -39,8 +39,3 @@ A collection of essential Linux commands for various tasks.
 - **Show command history**: `history`
 
 Feel free to add or customize commands based on your needs!
-
-You can save this file as `README.md` in a directory for easy access:
-
-```bash
-nano README.md
